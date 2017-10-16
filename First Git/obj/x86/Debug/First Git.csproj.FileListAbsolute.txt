@@ -1,0 +1,4 @@
+F:\my    OOP\C#\First Git\First Git\bin\Debug\First Git.exe
+F:\my    OOP\C#\First Git\First Git\bin\Debug\First Git.pdb
+F:\my    OOP\C#\First Git\First Git\obj\x86\Debug\First Git.exe
+F:\my    OOP\C#\First Git\First Git\obj\x86\Debug\First Git.pdb
